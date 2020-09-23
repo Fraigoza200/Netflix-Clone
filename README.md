@@ -1,3 +1,7 @@
+## Netflix-Clone 
+This application is built in React and utilizes a series of packages such as react-youtube, movie-trailer, and the TMDB API. This application mimics Netflix as it displays a trailer when an image is clicked along with a very well built UI. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
